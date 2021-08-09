@@ -1,14 +1,12 @@
 # Overview of my projects:
 
-## Scheduler 
-[link](https://github.com/ampx/Scheduler/)
+## [Scheduler](https://github.com/ampx/Scheduler/)
 
 Java proxy backend for Grafana
 
 ----------------
 
-## Bookmark 
-[link](https://github.com/ampx/bookmark/)
+## [Bookmark](https://github.com/ampx/bookmark/)
 
 Java checkpoint service
 
